@@ -6,9 +6,9 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = DecafUtils.MODID, name = DecafUtils.NAME, version = DecafUtils.VERSION)
+@Mod(modid = DecafSinatraUtils.MODID, name = DecafSinatraUtils.NAME, version = DecafSinatraUtils.VERSION)
 
-public class DecafUtils
+public class DecafSinatraUtils
 {
     public static final String MODID = "decafutils";
     public static final String NAME = "DecafSinatra Utilities";
@@ -26,6 +26,6 @@ public class DecafUtils
     public void init(FMLInitializationEvent event)
     {
         // some example code
-        logger.info("DecafUtils by Nucceteere loaded");
+        logger.info("DecafSinatraUtils by Nucceteere loaded");
     }
 }
