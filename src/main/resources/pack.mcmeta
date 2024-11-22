@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "DecafUtils Resources",
+        "pack_format": 3,
+        "_comment": "Resources for DecafSinatra Utils"
+    }
+}

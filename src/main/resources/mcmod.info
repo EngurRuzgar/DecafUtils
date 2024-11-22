@@ -1,0 +1,16 @@
+[
+{
+  "modid": "decafutils",
+  "name": "DecafSinatra Utils",
+  "description": "Utilities for the DecafSinatra mod pack",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nucceteere"],
+  "credits": "Mctrrt1 for the hosting and the rest of the Modpack Advisors for their contributions",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
